@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b412a38-2b25-4efb-9fda-75e9ccf38ef8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/lab8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/static/css/article.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/static/img/dpb-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/static/js/fold-post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/static/js/helloworld.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/static/js/highlight-post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/static/js/jquery-3.4.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/templates/archive.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/templates/article.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/templates/auth.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/templates/create_post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/templates/registration.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/blog/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/blog/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/blog/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/blog/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/db_blog.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/manage.py" afterDir="false" />
-    </list>
+    <list default="true" id="0b412a38-2b25-4efb-9fda-75e9ccf38ef8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/articles/static/js/highlight-post.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="51">
+              <caret line="3" column="53" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -207,12 +175,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556216298867</updated>
-      <workItem from="1556216308360" duration="3648000" />
+      <workItem from="1556216308360" duration="4032000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1556220619735</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556220619735</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3648000" />
+    <option name="totallyTimeSpent" value="4032000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -248,6 +224,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../lab8-master/blog/articles/static/js/jquery-3.4.0.min.js">
@@ -292,8 +272,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/articles/static/js/highlight-post.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="51">
+          <caret line="3" column="53" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
         </state>
       </provider>
     </entry>
